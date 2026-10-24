@@ -1,1 +1,35 @@
-/* Сюди додавай стилі частинки Reviews */
+.reviews-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+
+.reviews-section-description {
+  font-size: 14px;
+  line-height: 1.28571;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #b4b7ba;
+}
+
+.review-card {
+  background-color: #fbfbfb;
+}
+
+.reviewer-name {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #040306;
+}
+
+.review-text {
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #989899;
+}
