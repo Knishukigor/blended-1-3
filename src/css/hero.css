@@ -31,3 +31,9 @@
   width: 179px;
   height: 52px;
 }
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #fbfbfb;
+  color: #1b414b;
+}
