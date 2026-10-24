@@ -1,1 +1,47 @@
 /* Сюди додавай стилі частинки Catalog */
+#catalog h1 {
+  text-align: center;
+}
+.catalog_box {
+  background-color: #fff;
+  width: 377px;
+  height: 508px;
+  border-radius: 25px;
+  padding: 15px;
+}
+
+#catalog img {
+  border-radius: 25px;
+}
+
+#catalog ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#catalog ul > li {
+  margin-right: 15px;
+}
+
+.catalog_spec_label {
+  color: #a0a0a0;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.catalog_discription {
+  color: #2c3e50;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.catalog_rental {
+  color: #fff;
+  background-color: transparent;
+  border-radius: 25px;
+  border: #fff;
+}
